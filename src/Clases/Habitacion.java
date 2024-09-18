@@ -83,5 +83,4 @@ public class Habitacion {
         return numeroHabitacion == this.numeroHabitacion && cantidadSingle == this.cantidadSingle && cantidadDobles == this.cantidadDobles && Double.compare(precioPorDia, this.precioPorDia) == 0;
     }
 
-
 }
